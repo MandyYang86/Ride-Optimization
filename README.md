@@ -6,6 +6,7 @@ Eugene Cheah | Mengting Yang | Rahil Shah
 cheah.eug@husky.neu.edu | yang.meng@husky.neu.edu | shah.rah@husky.neu.edu
 
 CSYE 7245: Big Data Systems and Intelligence Analytics
+INFO 7390: Advances Data Science/Architecture
 
 Spring 2018, Northeastern University College of Engineering
 
